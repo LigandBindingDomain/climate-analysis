@@ -3,7 +3,6 @@
 This is a set of python scripts designed to analyse climate datafiles.
 
 <<<<<<< HEAD
-If you're interested in collaborating, email me at s.w.mangham@soton.ac.uk.
 =======
 To install a copy of the toolkit, open a terminal and run:
 
